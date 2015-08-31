@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/x0001/app/Libraries/Repositories/AccountRepository.php</file>
+            <file>file:/var/www/x0001/app/Libraries/Repositories/Contracts/IRepository.php</file>
+            <file>file:/var/www/x0001/app/Libraries/Contexts/AccountContext.php</file>
+            <file>file:/var/www/x0001/app/Models/OAuth/Client.php</file>
+            <file>file:/var/www/x0001/storage/logs/lumen.log</file>
+            <file>file:/var/www/x0001/app/Http/routes.php</file>
+            <file>file:/var/www/x0001/app/Libraries/Contexts/DBContext.php</file>
+            <file>file:/var/www/x0001/app/Http/Controllers/OAuth/OAuthController.php</file>
+            <file>file:/var/www/x0001/app/Models/IModel.php</file>
+            <file>file:/var/www/x0001/app/Providers/OAuth/RepositoryServiceProvider.php</file>
+            <file>file:/var/www/x0001/app/Models/OAuth/Account.php</file>
+        </group>
+    </open-files>
+</project-private>
